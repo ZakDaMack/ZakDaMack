@@ -4,24 +4,24 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Machine Learning and AI**
-- 💼 I'm working as a **Full Stack Developer**
-- 💬 Ask me about **JavaScript, Python, and Web Development**
-- 📫 How to reach me: [Email](mailto:zak@example.com)
+- 🌱 I’m currently learning **Distributed Systems and AI**
+- 💼 I'm working as a **Senior Software Engineer**
+- 💬 Ask me about **Fullstack Dev, Go, and Cybersecurity**
+- 📫 How to reach me: [Email](mailto:z.dowsett@outlook.co.uk) or [Website](https://zakdowsett.co.uk/)
 - ⚡ Fun fact: I love solving puzzles and playing chess!
 
 ## 🛠️ Languages and Tools
 
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks/Libraries:** React, Node.js, Express, Django
+- **Languages:** Typescript, Laravel, Java, C#, Go
+- **Frameworks/Libraries:** React, Vue, Flutter, Laravel, Springboot
 - **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools:** Git, Docker, Kubernetes, AWS
+- **Tools:** Git, Docker, Kubernetes, AWS, Atlassian
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/zakdamack)
-- [Twitter](https://twitter.com/zakdamack)
-- [Personal Website](https://www.zakdamack.dev)
+- 🌐 [Personal Website](https://zakdowsett.co.uk)
+- 👨‍💼 [LinkedIn](https://linkedin.com/in/zak-dowsett-4a7455131)
+- 🐳 [Docker](https://hub.docker.com/u/zakdamack)
 
 ## 📈 GitHub Stats
 
@@ -29,8 +29,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🏆 Top Repositories
 
-- [Awesome Project](https://github.com/ZakDaMack/awesome-project)
-- [Machine Learning Models](https://github.com/ZakDaMack/ml-models)
+- [FuelFinder](https://github.com/ZakDaMack/FuelFinder)
 - [Personal Portfolio](https://github.com/ZakDaMack/portfolio)
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on a project.
