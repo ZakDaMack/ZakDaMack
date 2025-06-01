@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 📈 GitHub Stats
 
-![ZakDaMack's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakDaMack&show_icons=true&theme=radical)
+![ZakDaMack's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakDaMack&show_icons=true&theme=transparent)
 
 ## 🏆 Top Repositories
 
